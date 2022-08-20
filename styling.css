@@ -114,7 +114,7 @@ ul {
     margin: 16px 0;
 }
 #contact {
-    background: linear-gradient(#6fbaec, #9180b9);
+    background: linear-gradient(#5eaadd, #9180b9);
     background: -webkit-linear-gradient(#6fbaec, #9180b9);
     background: -o-linear-gradient(#6fbaec, #9180b9);
     background: -moz-linear-gradient(#6fbaec, #9180b9);
@@ -137,7 +137,8 @@ ul {
 .sidebar {
     height: 500px;
     width: 450px;
-    border: 1px solid #BAF46F;
+    border: 1px solid gray;
+    background-color: ghostwhite;
     border-radius: 20px;
     padding: 10px 30px;
 }
@@ -190,10 +191,10 @@ ul {
 
 .footer {
     height: 60px;
-    background: linear-gradient(#6fbaec, #9180b9);
-    background: -webkit-linear-gradient(#6fbaec, #9180b9);
-    background: -o-linear-gradient(#6fbaec, #9180b9);
-    background: -moz-linear-gradient(#6fbaec, #9180b9);
+    background: linear-gradient(#f6f6f7, #6d88ac);
+    background: -webkit-linear-gradient(#a694f8, #9e6b97);
+    background: -o-linear-gradient(#a694f8, #ae94c0);
+    background: -moz-linear-gradient(#af94f8, #5f499b);
     padding: 10px 30px;
     margin-top: 15px
 }
