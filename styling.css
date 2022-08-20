@@ -27,10 +27,10 @@ h1 a {
 
 #searchBox {
     float: right;
-    background: linear-gradient(#E4F2B9, #B7E953);
-    background: -webkit-linear-gradient(#E4F2B9, #B7E953);
-    background: -o-linear-gradient(#E4F2B9, #B7E953);
-    background: -moz-linear-gradient(#E4F2B9, #B7E953);
+    background: linear-gradient(#6fbaec, #9180b9);
+    background: -webkit-linear-gradient(#6fbaec, #9180b9);
+    background: -o-linear-gradient(#6fbaec, #9180b9);
+    background: -moz-linear-gradient(#6fbaec, #9180b9);
     width: 400px;
     height: 50px;
     padding: 20px 20px 0 20px;
@@ -63,10 +63,10 @@ h1 a {
 
 #menu {
     height: 70px;
-    background: linear-gradient(#F8F594, #D5D533);
-    background: -webkit-linear-gradient(#F8F594, #D5D533);
-    background: -o-linear-gradient(#F8F594, #D5D533);
-    background: -moz-linear-gradient(#F8F594, #D5D533);
+    background: linear-gradient(#f6f6f7, #6d88ac);
+    background: -webkit-linear-gradient(#a694f8, #9e6b97);
+    background: -o-linear-gradient(#a694f8, #ae94c0);
+    background: -moz-linear-gradient(#af94f8, #5f499b);
     padding: 7px 0;
 }
 
@@ -78,7 +78,7 @@ ul {
     float: left;
     padding: 0 30px;
     height: 30px;
-    border-right: 1px solid #5d12e7;
+    border-right: 1px solid #a3a2a5;
 }
 
 #menu ul li:last-child {
@@ -89,7 +89,7 @@ ul {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 17px;
-    color: #5d12e7;
+    color: #ffffff;
     line-height: 30px;
     -webkit-transition: font-size 0.3s ease;
     -moz-transition: font-size 0.3s ease;
@@ -102,27 +102,35 @@ ul {
 #menu ul li a.active {
     font-size: 20px;
     font-weight: bold;
-    color: #B314DB;
+    color: #ffffff;
 }
 
 #introduction {
-    background: linear-gradient(#E5F2BB, #B7E952);
-    background: -webkit-linear-gradient(#E5F2BB, #B7E952);
-    background: -o-linear-gradient(#E5F2BB, #B7E952);
-    background: -moz-linear-gradient(#E5F2BB, #B7E952);
+    background: linear-gradient(#6fbaec, #9180b9);
+    background: -webkit-linear-gradient(#6fbaec, #9180b9);
+    background: -o-linear-gradient(#6fbaec, #9180b9);
+    background: -moz-linear-gradient(#6fbaec, #9180b9);
+    padding: 30px;
+    margin: 16px 0;
+}
+#contact {
+    background: linear-gradient(#6fbaec, #9180b9);
+    background: -webkit-linear-gradient(#6fbaec, #9180b9);
+    background: -o-linear-gradient(#6fbaec, #9180b9);
+    background: -moz-linear-gradient(#6fbaec, #9180b9);
     padding: 30px;
     margin: 16px 0;
 }
 
 #introduction h3 {
     font-size: 45px;
-    color: #316901;
+    color: black;
     font-weight: normal;
 }
 
 #introduction p {
     font-size: 25px;
-    color: #628F19;
+    color:white;
     text-align: justify;
 }
 
@@ -182,10 +190,10 @@ ul {
 
 .footer {
     height: 60px;
-    background: linear-gradient(#F6F390, #D5D533);
-    background: -webkit-linear-gradient(#F6F390, #D5D533);
-    background: -o-linear-gradient(#F6F390, #D5D533);
-    background: -moz-linear-gradient(#F6F390, #D5D533);
+    background: linear-gradient(#6fbaec, #9180b9);
+    background: -webkit-linear-gradient(#6fbaec, #9180b9);
+    background: -o-linear-gradient(#6fbaec, #9180b9);
+    background: -moz-linear-gradient(#6fbaec, #9180b9);
     padding: 10px 30px;
     margin-top: 15px
 }
